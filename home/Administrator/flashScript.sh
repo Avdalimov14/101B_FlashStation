@@ -17,4 +17,4 @@ cd $versionPath/Ver1.x.x
 make menuconfig
 make all
 make flash
-make monitor
+
