@@ -1,0 +1,302 @@
+[2016-10-25 11:35] [PACMAN] Running 'pacman -Syu --root /tmp/newmsys/msys32'
+[2016-10-25 11:35] [PACMAN] synchronizing package lists
+[2016-10-25 11:35] [PACMAN] starting core system upgrade
+[2016-10-25 11:35] [PACMAN] starting full system upgrade
+[2016-10-25 11:35] [PACMAN] Running 'pacman -S --noconfirm --root /tmp/newmsys/msys32 base'
+[2016-10-25 11:36] [ALPM] transaction started
+[2016-10-25 11:36] [ALPM] installed msys2-runtime (2.6.0-1)
+[2016-10-25 11:36] [ALPM] installed bash (4.3.046-1)
+[2016-10-25 11:36] [ALPM] installed bash-completion (2.3-1)
+[2016-10-25 11:36] [ALPM] installed gcc-libs (5.3.0-3)
+[2016-10-25 11:36] [ALPM] installed libbz2 (1.0.6-2)
+[2016-10-25 11:36] [ALPM] installed libiconv (1.14-2)
+[2016-10-25 11:36] [ALPM] installed libintl (0.19.7-3)
+[2016-10-25 11:36] [ALPM] installed libgettextpo (0.19.7-3)
+[2016-10-25 11:36] [ALPM] installed libasprintf (0.19.7-3)
+[2016-10-25 11:36] [ALPM] installed gettext (0.19.7-3)
+[2016-10-25 11:36] [ALPM] installed liblzma (5.2.2-1)
+[2016-10-25 11:36] [ALPM] installed liblzo2 (2.09-1)
+[2016-10-25 11:36] [ALPM] installed gmp (6.1.0-2)
+[2016-10-25 11:36] [ALPM] installed libnettle (3.3-1)
+[2016-10-25 11:36] [ALPM] installed coreutils (8.25-1)
+[2016-10-25 11:36] [ALPM] installed ncurses (6.0.20161001-1)
+[2016-10-25 11:36] [ALPM] installed libreadline (6.3.008-7)
+[2016-10-25 11:36] [ALPM] installed zlib (1.2.8-3)
+[2016-10-25 11:36] [ALPM] installed libxml2 (2.9.2-2)
+[2016-10-25 11:36] [ALPM] installed bsdcpio (3.2.1-1)
+[2016-10-25 11:36] [ALPM] installed bsdtar (3.2.1-1)
+[2016-10-25 11:36] [ALPM] installed bzip2 (1.0.6-2)
+[2016-10-25 11:36] [ALPM] installed libcatgets (1.1-2)
+[2016-10-25 11:36] [ALPM] installed catgets (1.1-2)
+[2016-10-25 11:36] [ALPM] installed libcrypt (1.3-1)
+[2016-10-25 11:36] [ALPM] installed crypt (1.3-1)
+[2016-10-25 11:36] [ALPM] installed libopenssl (1.0.2.j-1)
+[2016-10-25 11:36] [ALPM] installed openssl (1.0.2.j-1)
+[2016-10-25 11:36] [ALPM] installed findutils (4.6.0-1)
+[2016-10-25 11:36] [ALPM] installed sed (4.2.2-2)
+[2016-10-25 11:36] [ALPM] installed libffi (3.2.1-1)
+[2016-10-25 11:36] [ALPM] installed libpcre (8.38-1)
+[2016-10-25 11:36] [ALPM] installed less (481-1)
+[2016-10-25 11:36] [ALPM] installed gzip (1.8-1)
+[2016-10-25 11:36] [ALPM] installed info (6.1-1)
+[2016-10-25 11:36] [ALPM] installed libtasn1 (4.9-1)
+[2016-10-25 11:36] [ALPM] installed libp11-kit (0.23.2-1)
+[2016-10-25 11:36] [ALPM] installed p11-kit (0.23.2-1)
+[2016-10-25 11:36] [ALPM] installed ca-certificates (20150426-1)
+[2016-10-25 11:36] [ALPM] installed libdb (5.3.28-2)
+[2016-10-25 11:36] [ALPM] installed libedit (3.1-20150325)
+[2016-10-25 11:36] [ALPM] installed icu (56.1-1)
+[2016-10-25 11:36] [ALPM] installed libsqlite (3.10.0.0-1)
+[2016-10-25 11:36] [ALPM] installed heimdal-libs (1.5.3-9)
+[2016-10-25 11:36] [ALPM] installed libidn (1.33-1)
+[2016-10-25 11:36] [ALPM] installed libexpat (2.2.0-1)
+[2016-10-25 11:36] [ALPM] installed libmetalink (0.1.2-2)
+[2016-10-25 11:36] [ALPM] installed libssh2 (1.7.0-1)
+[2016-10-25 11:36] [ALPM] installed libcurl (7.50.3-1)
+[2016-10-25 11:36] [ALPM] installed curl (7.50.3-1)
+[2016-10-25 11:36] [ALPM] installed filesystem (2016.07-2)
+[2016-10-25 11:36] [ALPM] installed grep (2.26-1)
+[2016-10-25 11:36] [ALPM] installed dash (0.5.9.1-1)
+[2016-10-25 11:36] [ALPM] installed file (5.28-2)
+[2016-10-25 11:36] [ALPM] installed m4 (1.4.17-4)
+[2016-10-25 11:36] [ALPM] installed flex (2.6.1-1)
+[2016-10-25 11:36] [ALPM] installed mpfr (3.1.4-1)
+[2016-10-25 11:36] [ALPM] installed gawk (4.1.4-1)
+[2016-10-25 11:36] [ALPM] installed tftp-hpa (5.2-1)
+[2016-10-25 11:36] [ALPM] installed inetutils (1.9.2-1)
+[2016-10-25 11:36] [ALPM] installed lndir (1.0.3-1)
+[2016-10-25 11:36] [ALPM] installed mintty (1~2.6.2-1)
+[2016-10-25 11:36] [ALPM] installed msys2-keyring (r9.397a52e-1)
+[2016-10-25 11:36] [ALPM] installed msys2-launcher-git (0.3.32.56c2ba7-2)
+[2016-10-25 11:36] [ALPM] installed gnupg (1.4.20-1)
+[2016-10-25 11:36] [ALPM-SCRIPTLET] rm: ошибка получения атрибутов '/': No such file or directory
+[2016-10-25 11:36] [ALPM-SCRIPTLET] /tmp/alpm_tMoqPC/.INSTALL: line 11: pacman-key: команда не найдена
+[2016-10-25 11:36] [ALPM-SCRIPTLET] /tmp/alpm_tMoqPC/.INSTALL: line 12: pacman-key: команда не найдена
+[2016-10-25 11:36] [ALPM] installed pacman-mirrors (20160112-1)
+[2016-10-25 11:36] [ALPM] installed which (2.21-2)
+[2016-10-25 11:36] [ALPM] installed xz (5.2.2-1)
+[2016-10-25 11:36] [ALPM] installed pacman (5.0.1-1)
+[2016-10-25 11:36] [ALPM] installed libarchive (3.2.1-1)
+[2016-10-25 11:36] [ALPM] installed libpcre16 (8.38-1)
+[2016-10-25 11:36] [ALPM] installed libpcre32 (8.38-1)
+[2016-10-25 11:36] [ALPM] installed libpcrecpp (8.38-1)
+[2016-10-25 11:36] [ALPM] installed libpcreposix (8.38-1)
+[2016-10-25 11:36] [ALPM] installed pcre (8.38-1)
+[2016-10-25 11:36] [ALPM] installed pkgfile (15-1)
+[2016-10-25 11:36] [ALPM-SCRIPTLET] ==> Run 'pkgfile --update' to initialize the database
+[2016-10-25 11:36] [ALPM] installed libgpg-error (1.23-1)
+[2016-10-25 11:36] [ALPM] installed libassuan (2.4.2-1)
+[2016-10-25 11:36] [ALPM] installed libgpgme (1.6.0-1)
+[2016-10-25 11:36] [ALPM] installed libutil-linux (2.26.2-1)
+[2016-10-25 11:36] [ALPM] installed wget (1.18-1)
+[2016-10-25 11:36] [ALPM] installed pactoys-git (r2.07ca37f-1)
+[2016-10-25 11:36] [ALPM] installed pax-git (20140703.2.1.g469552a-1)
+[2016-10-25 11:36] [ALPM] installed rebase (4.4.2-1)
+[2016-10-25 11:36] [ALPM] installed time (1.7-1)
+[2016-10-25 11:36] [ALPM] installed ttyrec (1.0.8-1)
+[2016-10-25 11:36] [ALPM] installed tzcode (2015.e-1)
+[2016-10-25 11:36] [ALPM] installed util-linux (2.26.2-1)
+[2016-10-25 11:36] [ALPM] transaction completed
+[2018-01-10 13:42] [PACMAN] Running 'pacman --noconfirm -Syu'
+[2018-01-10 13:42] [PACMAN] synchronizing package lists
+[2018-01-10 13:42] [PACMAN] starting core system upgrade
+[2018-01-10 13:43] [ALPM] transaction started
+[2018-01-10 13:43] [ALPM] upgraded msys2-runtime (2.6.0-1 -> 2.9.0-2)
+[2018-01-10 13:43] [ALPM] upgraded bash (4.3.046-1 -> 4.4.012-1)
+[2018-01-10 13:43] [ALPM] upgraded filesystem (2016.07-2 -> 2017.05-1)
+[2018-01-10 13:43] [ALPM] upgraded mintty (1~2.6.2-1 -> 1~2.8.1-1)
+[2018-01-10 13:43] [ALPM] upgraded pacman (5.0.1-1 -> 5.0.1-4)
+[2018-01-10 13:43] [ALPM] transaction completed
+[2018-01-10 13:44] [PACMAN] Running 'pacman --noconfirm -Syu'
+[2018-01-10 13:44] [PACMAN] synchronizing package lists
+[2018-01-10 13:44] [PACMAN] starting core system upgrade
+[2018-01-10 13:44] [PACMAN] starting full system upgrade
+[2018-01-10 13:45] [ALPM] transaction started
+[2018-01-10 13:45] [ALPM] upgraded bash-completion (2.3-1 -> 2.5-1)
+[2018-01-10 13:45] [ALPM] upgraded gcc-libs (5.3.0-3 -> 6.4.0-1)
+[2018-01-10 13:45] [ALPM] upgraded libintl (0.19.7-3 -> 0.19.8.1-1)
+[2018-01-10 13:45] [ALPM] upgraded libgettextpo (0.19.7-3 -> 0.19.8.1-1)
+[2018-01-10 13:45] [ALPM] upgraded libasprintf (0.19.7-3 -> 0.19.8.1-1)
+[2018-01-10 13:45] [ALPM] upgraded gettext (0.19.7-3 -> 0.19.8.1-1)
+[2018-01-10 13:45] [ALPM] upgraded liblzma (5.2.2-1 -> 5.2.3-1)
+[2018-01-10 13:45] [ALPM] upgraded liblzo2 (2.09-1 -> 2.10-1)
+[2018-01-10 13:45] [ALPM] upgraded gmp (6.1.0-2 -> 6.1.2-1)
+[2018-01-10 13:45] [ALPM] upgraded coreutils (8.25-1 -> 8.26-2)
+[2018-01-10 13:45] [ALPM] upgraded icu (56.1-1 -> 59.1-1)
+[2018-01-10 13:45] [ALPM] upgraded ncurses (6.0.20161001-1 -> 6.0.20170708-2)
+[2018-01-10 13:45] [ALPM] upgraded libreadline (6.3.008-7 -> 7.0.003-1)
+[2018-01-10 13:45] [ALPM] upgraded zlib (1.2.8-3 -> 1.2.11-1)
+[2018-01-10 13:45] [ALPM] upgraded libxml2 (2.9.2-2 -> 2.9.7-1)
+[2018-01-10 13:45] [ALPM] upgraded bsdcpio (3.2.1-1 -> 3.3.2-1)
+[2018-01-10 13:45] [ALPM] upgraded bsdtar (3.2.1-1 -> 3.3.2-1)
+[2018-01-10 13:45] [ALPM] upgraded libopenssl (1.0.2.j-1 -> 1.0.2.m-1)
+[2018-01-10 13:46] [ALPM] upgraded openssl (1.0.2.j-1 -> 1.0.2.m-1)
+[2018-01-10 13:46] [ALPM] upgraded sed (4.2.2-2 -> 4.4-2)
+[2018-01-10 13:46] [ALPM] upgraded libpcre (8.38-1 -> 8.40-2)
+[2018-01-10 13:46] [ALPM] upgraded less (481-1 -> 529-1)
+[2018-01-10 13:46] [ALPM] upgraded info (6.1-1 -> 6.3-1)
+[2018-01-10 13:46] [ALPM] upgraded libtasn1 (4.9-1 -> 4.12-1)
+[2018-01-10 13:46] [ALPM] upgraded libgpg-error (1.23-1 -> 1.27-1)
+[2018-01-10 13:46] [ALPM] installed libgcrypt (1.8.1-1)
+[2018-01-10 13:46] [ALPM] installed libxslt (1.1.32-1)
+[2018-01-10 13:46] [ALPM] installed glib2 (2.48.2-1)
+[2018-01-10 13:46] [ALPM] upgraded libp11-kit (0.23.2-1 -> 0.23.9-1)
+[2018-01-10 13:46] [ALPM] upgraded p11-kit (0.23.2-1 -> 0.23.9-1)
+[2018-01-10 13:46] [ALPM] upgraded ca-certificates (20150426-1 -> 20170717-2)
+[2018-01-10 13:46] [ALPM] upgraded libcrypt (1.3-1 -> 2.1-1)
+[2018-01-10 13:46] [ALPM] installed libunistring (0.9.7-2)
+[2018-01-10 13:46] [ALPM] installed libidn2 (2.0.4-2)
+[2018-01-10 13:46] [ALPM] upgraded libexpat (2.2.0-1 -> 2.2.5-1)
+[2018-01-10 13:46] [ALPM] upgraded libmetalink (0.1.2-2 -> 0.1.3-1)
+[2018-01-10 13:46] [ALPM] installed libnghttp2 (1.24.0-1)
+[2018-01-10 13:46] [ALPM] installed libpsl (0.18.0-2)
+[2018-01-10 13:46] [ALPM] upgraded libssh2 (1.7.0-1 -> 1.8.0-1)
+[2018-01-10 13:46] [ALPM] upgraded libedit (3.1-20150325 -> 3.1-20170329)
+[2018-01-10 13:46] [ALPM] upgraded libsqlite (3.10.0.0-1 -> 3.19.3.0-2)
+[2018-01-10 13:46] [ALPM] upgraded libcurl (7.50.3-1 -> 7.57.0-1)
+[2018-01-10 13:46] [ALPM] upgraded curl (7.50.3-1 -> 7.57.0-1)
+[2018-01-10 13:46] [ALPM] upgraded file (5.28-2 -> 5.32-1)
+[2018-01-10 13:46] [ALPM] upgraded m4 (1.4.17-4 -> 1.4.18-1)
+[2018-01-10 13:46] [ALPM] upgraded flex (2.6.1-1 -> 2.6.4-1)
+[2018-01-10 13:46] [ALPM] upgraded mpfr (3.1.4-1 -> 3.1.5.1-3)
+[2018-01-10 13:46] [ALPM] upgraded gawk (4.1.4-1 -> 4.1.4-2)
+[2018-01-10 13:46] [ALPM] upgraded gnupg (1.4.20-1 -> 1.4.22-2)
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: WARNING: using insecure memory!
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: please see http://www.gnupg.org/documentation/faqs.html for more information
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: /etc/pacman.d/gnupg/trustdb.gpg: trustdb created
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: no ultimately trusted keys found
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: WARNING: using insecure memory!
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: please see http://www.gnupg.org/documentation/faqs.html for more information
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: WARNING: using insecure memory!
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: please see http://www.gnupg.org/documentation/faqs.html for more information
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: Generating pacman keyring master key...
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: skipping control `%no-protection' ()
+[2018-01-10 13:46] [ALPM-SCRIPTLET] ..................+++++
+[2018-01-10 13:46] [ALPM-SCRIPTLET] .................+++++
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: key 591ADDA8 marked as ultimately trusted
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: Done
+[2018-01-10 13:46] [ALPM-SCRIPTLET] ==> Updating trust database...
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: WARNING: using insecure memory!
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: please see http://www.gnupg.org/documentation/faqs.html for more information
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: 3 marginal(s) needed, 1 complete(s) needed, PGP trust model
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: depth: 0  valid:   1  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 1u
+[2018-01-10 13:46] [ALPM-SCRIPTLET] ==> Appending keys from msys2.gpg...
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: WARNING: using insecure memory!
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: please see http://www.gnupg.org/documentation/faqs.html for more information
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: 3 marginal(s) needed, 1 complete(s) needed, PGP trust model
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: depth: 0  valid:   1  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 1u
+[2018-01-10 13:46] [ALPM-SCRIPTLET] ==> Locally signing trusted keys in keyring...
+[2018-01-10 13:46] [ALPM-SCRIPTLET]   -> Locally signing key D55E7A6D7CE9BA1587C0ACACF40D263ECA25678A...
+[2018-01-10 13:46] [ALPM-SCRIPTLET]   -> Locally signing key 123D4D51A1793859C2BE916BBBE514E53E0D0813...
+[2018-01-10 13:46] [ALPM-SCRIPTLET]   -> Locally signing key B91BCF3303284BF90CC043CA9F418C233E652008...
+[2018-01-10 13:46] [ALPM-SCRIPTLET]   -> Locally signing key 9DD0D4217D75A33B896159E6DA7EF2ABAEEA755C...
+[2018-01-10 13:46] [ALPM-SCRIPTLET] ==> Importing owner trust values...
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: WARNING: using insecure memory!
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: please see http://www.gnupg.org/documentation/faqs.html for more information
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: setting ownertrust to 4
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: setting ownertrust to 4
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: setting ownertrust to 4
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: inserting ownertrust of 4
+[2018-01-10 13:46] [ALPM-SCRIPTLET] ==> Updating trust database...
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: WARNING: using insecure memory!
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: please see http://www.gnupg.org/documentation/faqs.html for more information
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: 3 marginal(s) needed, 1 complete(s) needed, PGP trust model
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: depth: 0  valid:   1  signed:   4  trust: 0-, 0q, 0n, 0m, 0f, 1u
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: depth: 1  valid:   4  signed:   3  trust: 0-, 0q, 0n, 4m, 0f, 0u
+[2018-01-10 13:46] [ALPM-SCRIPTLET] gpg: depth: 2  valid:   3  signed:   0  trust: 3-, 0q, 0n, 0m, 0f, 0u
+[2018-01-10 13:46] [ALPM] upgraded grep (2.26-1 -> 3.0-1)
+[2018-01-10 13:46] [ALPM] upgraded inetutils (1.9.2-1 -> 1.9.4-1)
+[2018-01-10 13:46] [ALPM] upgraded libarchive (3.2.1-1 -> 3.3.2-1)
+[2018-01-10 13:46] [ALPM] upgraded libassuan (2.4.2-1 -> 2.4.3-1)
+[2018-01-10 13:46] [ALPM] upgraded libpcre16 (8.38-1 -> 8.40-2)
+[2018-01-10 13:46] [ALPM] upgraded libpcre32 (8.38-1 -> 8.40-2)
+[2018-01-10 13:46] [ALPM] upgraded libpcrecpp (8.38-1 -> 8.40-2)
+[2018-01-10 13:46] [ALPM] upgraded libpcreposix (8.38-1 -> 8.40-2)
+[2018-01-10 13:46] [ALPM] upgraded pax-git (20140703.2.1.g469552a-1 -> 20161104.2-1)
+[2018-01-10 13:46] [ALPM] upgraded pcre (8.38-1 -> 8.40-2)
+[2018-01-10 13:46] [ALPM] upgraded xz (5.2.2-1 -> 5.2.3-1)
+[2018-01-10 13:46] [ALPM] upgraded pkgfile (15-1 -> 17-1)
+[2018-01-10 13:46] [ALPM] upgraded tzcode (2015.e-1 -> 2017.b-1)
+[2018-01-10 13:46] [ALPM] upgraded wget (1.18-1 -> 1.19.1-3)
+[2018-01-10 13:46] [ALPM] transaction completed
+[2018-01-10 13:46] [PACMAN] Running 'pacman --noconfirm -S --needed gettext-devel gcc git make ncurses-devel flex bison gperf vim mingw-w64-i686-python2-pip unzip winpty'
+[2018-01-10 13:47] [ALPM] transaction started
+[2018-01-10 13:47] [ALPM] installed libiconv-devel (1.14-2)
+[2018-01-10 13:47] [ALPM] installed gettext-devel (0.19.8.1-1)
+[2018-01-10 13:47] [ALPM] installed binutils (2.28-1)
+[2018-01-10 13:47] [ALPM] installed isl (0.16.1-1)
+[2018-01-10 13:47] [ALPM] installed mpc (1.0.3-1)
+[2018-01-10 13:47] [ALPM] installed msys2-runtime-devel (2.9.0-2)
+[2018-01-10 13:47] [ALPM] installed msys2-w32api-headers (5.0.0.4961.e09dd4ca-1)
+[2018-01-10 13:47] [ALPM] installed msys2-w32api-runtime (5.0.0.4961.e09dd4ca-1)
+[2018-01-10 13:47] [ALPM] installed windows-default-manifest (6.4-1)
+[2018-01-10 13:48] [ALPM] installed gcc (6.4.0-1)
+[2018-01-10 13:48] [ALPM] installed expat (2.2.5-1)
+[2018-01-10 13:48] [ALPM] installed vim (8.0.1305-1)
+[2018-01-10 13:48] [ALPM] installed heimdal (1.5.3-9)
+[2018-01-10 13:48] [ALPM] installed openssh (7.5p1-1)
+[2018-01-10 13:48] [ALPM] installed db (5.3.28-2)
+[2018-01-10 13:48] [ALPM] installed libgdbm (1.11-3)
+[2018-01-10 13:48] [ALPM] installed gdbm (1.11-3)
+[2018-01-10 13:48] [ALPM] installed perl (5.24.1-3)
+[2018-01-10 13:48] [ALPM] installed perl-Error (0.17024-1)
+[2018-01-10 13:48] [ALPM] installed perl-Authen-SASL (2.16-2)
+[2018-01-10 13:48] [ALPM] installed perl-Encode-Locale (1.04-1)
+[2018-01-10 13:48] [ALPM] installed perl-HTTP-Date (6.02-2)
+[2018-01-10 13:48] [ALPM] installed perl-File-Listing (6.04-2)
+[2018-01-10 13:48] [ALPM] installed perl-HTML-Tagset (3.20-2)
+[2018-01-10 13:48] [ALPM] installed perl-HTML-Parser (3.72-1)
+[2018-01-10 13:48] [ALPM] installed perl-LWP-MediaTypes (6.02-2)
+[2018-01-10 13:48] [ALPM] installed perl-URI (1.68-1)
+[2018-01-10 13:48] [ALPM] installed perl-HTTP-Message (6.06-2)
+[2018-01-10 13:48] [ALPM] installed perl-HTTP-Cookies (6.01-2)
+[2018-01-10 13:48] [ALPM] installed perl-HTTP-Daemon (6.01-2)
+[2018-01-10 13:48] [ALPM] installed perl-HTTP-Negotiate (6.01-2)
+[2018-01-10 13:48] [ALPM] installed perl-Net-HTTP (6.09-1)
+[2018-01-10 13:48] [ALPM] installed perl-WWW-RobotRules (6.02-2)
+[2018-01-10 13:48] [ALPM] installed perl-libwww (6.15-1)
+[2018-01-10 13:48] [ALPM] installed perl-TimeDate (2.30-2)
+[2018-01-10 13:48] [ALPM] installed perl-MailTools (2.14-1)
+[2018-01-10 13:48] [ALPM] installed perl-IO-stringy (2.111-1)
+[2018-01-10 13:48] [ALPM] installed perl-Convert-BinHex (1.123-2)
+[2018-01-10 13:48] [ALPM-SCRIPTLET] module test... pass.
+[2018-01-10 13:48] [ALPM] installed perl-MIME-tools (5.506-1)
+[2018-01-10 13:48] [ALPM] installed perl-Net-SSLeay (1.80-1)
+[2018-01-10 13:48] [ALPM] installed perl-IO-Socket-SSL (2.016-1)
+[2018-01-10 13:48] [ALPM] installed perl-Net-SMTP-SSL (1.02-1)
+[2018-01-10 13:48] [ALPM] installed perl-TermReadKey (2.37-1)
+[2018-01-10 13:48] [ALPM] installed git (2.15.0-1)
+[2018-01-10 13:48] [ALPM] installed make (4.2.1-1)
+[2018-01-10 13:48] [ALPM] installed ncurses-devel (6.0.20170708-2)
+[2018-01-10 13:48] [ALPM] installed bison (3.0.4-1)
+[2018-01-10 13:48] [ALPM] installed gperf (3.1-1)
+[2018-01-10 13:48] [ALPM] installed mingw-w64-i686-gmp (6.1.2-1)
+[2018-01-10 13:48] [ALPM] installed mingw-w64-i686-mpfr (4.0.0-1)
+[2018-01-10 13:48] [ALPM] installed mingw-w64-i686-mpc (1.0.3-2)
+[2018-01-10 13:48] [ALPM] installed mingw-w64-i686-libwinpthread-git (5.0.0.4850.d1662dc7-1)
+[2018-01-10 13:48] [ALPM] installed mingw-w64-i686-gcc-libs (7.2.0-1)
+[2018-01-10 13:48] [ALPM] installed mingw-w64-i686-expat (2.2.5-1)
+[2018-01-10 13:48] [ALPM] installed mingw-w64-i686-bzip2 (1.0.6-6)
+[2018-01-10 13:48] [ALPM] installed mingw-w64-i686-libffi (3.2.1-4)
+[2018-01-10 13:48] [ALPM] installed mingw-w64-i686-libiconv (1.15-1)
+[2018-01-10 13:49] [ALPM] installed mingw-w64-i686-gettext (0.19.8.1-2)
+[2018-01-10 13:49] [ALPM] installed mingw-w64-i686-libtre-git (r128.6fb7206-1)
+[2018-01-10 13:49] [ALPM] installed mingw-w64-i686-libsystre (1.0.1-3)
+[2018-01-10 13:49] [ALPM] installed mingw-w64-i686-ncurses (6.0.20170916-1)
+[2018-01-10 13:49] [ALPM] installed mingw-w64-i686-libtasn1 (4.12-1)
+[2018-01-10 13:49] [ALPM] installed mingw-w64-i686-p11-kit (0.23.9-1)
+[2018-01-10 13:49] [ALPM] installed mingw-w64-i686-ca-certificates (20170211-2)
+[2018-01-10 13:49] [ALPM] installed mingw-w64-i686-zlib (1.2.11-1)
+[2018-01-10 13:49] [ALPM] installed mingw-w64-i686-openssl (1.0.2.n-1)
+[2018-01-10 13:49] [ALPM] installed mingw-w64-i686-termcap (1.3.1-2)
+[2018-01-10 13:49] [ALPM] installed mingw-w64-i686-readline (7.0.003-1)
+[2018-01-10 13:49] [ALPM] installed mingw-w64-i686-tcl (8.6.8-1)
+[2018-01-10 13:49] [ALPM] installed mingw-w64-i686-tk (8.6.8-1)
+[2018-01-10 13:50] [ALPM] installed mingw-w64-i686-python2 (2.7.14-3)
+[2018-01-10 13:50] [ALPM] installed mingw-w64-i686-python2-setuptools (36.6.0-1)
+[2018-01-10 13:50] [ALPM] installed mingw-w64-i686-python2-pip (9.0.1-3)
+[2018-01-10 13:50] [ALPM-SCRIPTLET] /
+[2018-01-10 13:50] [ALPM] installed unzip (6.0-2)
+[2018-01-10 13:50] [ALPM] installed winpty (0.4.3-1)
+[2018-01-10 13:50] [ALPM] transaction completed
+[2018-01-10 13:51] [PACMAN] Running 'pacman --noconfirm -Scc'
