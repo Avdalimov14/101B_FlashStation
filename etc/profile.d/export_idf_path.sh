@@ -1,1 +1,1 @@
-export IDF_PATH="C:/101B_FlashStation/home/Administrator/esp-idf-v3.0"
+export IDF_PATH="C:/101B_FlashStation/home/$USER/esp-idf-v3.0"

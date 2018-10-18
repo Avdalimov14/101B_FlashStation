@@ -58,3 +58,14 @@ cd
 101B_Release-newICDdev
 101B_Release-newICDdev
 ./flashScript.sh dev
+ll
+ls
+flashScript.sh
+./flashScript.sh
+./flashScript.sh dev
+./flashScript.sh dev
+exit
+./testScript
+./testScript.sh
+exit
+printenv IDF_PATH
