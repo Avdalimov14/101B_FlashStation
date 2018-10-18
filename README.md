@@ -2,14 +2,14 @@
 
 # Prerequisites instructions
 1. Clone / Download 101B_FlashStation repo.
-2. Replace / Extract ZIP to <code> C:\\</code>.
+2. Replace / Extract ZIP to <code> C:\Users\YOUR_USERNAME\Documents</code>.
 3. Rename folder name to <code> 101B_FlashStation</code>.
 4. Download required release or current dev repo from https://github.com/ezritarazi/101B_Release (If you need credentials ask them from Albert). <br/>
-Note: You can find example repo in <code> C:\101B_FlashStation\home\Administrator</code>.
-5. Extract ZIP to <code> C:\101B_FlashStation\home\YOUR_USERNAME</code>.
+Note: You can find example repo in <code> C:\Users\Administrator\Documents\101B_FlashStation\home\Administrator</code>.
+5. Extract ZIP to <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation\home\YOUR_USERNAME</code>.
 6. Connect an ESP32 device. <br/>
 # flashScript instructions
-1. Open <code> C:\101B_FlashStation</code> folder.
+1. Open <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation</code> folder.
 2. Run mingw32.exe.
 3. If the downloaded required repo is a dev one, run:<br/>
  <code> $ ../Administrator/flashScript.sh dev</code><br/>
