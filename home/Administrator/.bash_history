@@ -69,3 +69,4 @@ exit
 ./testScript.sh
 exit
 printenv IDF_PATH
+printenv IDF_PATH
