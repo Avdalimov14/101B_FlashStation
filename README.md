@@ -6,11 +6,9 @@
 3. Rename folder name to <code> 101B_FlashStation</code>.
 4. Open <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation</code> folder.
 5. Run mingw32.exe after it's up, close it.
-6. Download esp-idf-v3.1 from here: https://github.com/espressif/esp-idf/releases/download/v3.1/esp-idf-v3.1.zip
-7. Extract ZIP to <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation\home\YOUR_USERNAME</code>.
-8. Download required release or current dev repo from https://github.com/ezritarazi/101B_Release (If you need credentials ask them from Albert). <br/>
-Note: You can find example zipped repo in <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation</code>.
-9. Extract ZIP to <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation\home\YOUR_USERNAME</code>.
+4. Open <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation</code> folder again.
+6. Extract esp-idf-v3.1.zip to <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation\home\YOUR_USERNAME</code>.
+8. Extract 101B_Release-newICDdev.zip to <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation\home\YOUR_USERNAME</code>.
 10. Connect an ESP32 device. <br/>
 
 # flashScript instructions
