@@ -13,7 +13,7 @@
 3. If the downloaded required repo is a dev one, run:<br/>
  <code> $ ./flashScript.sh dev </code><br/>
    If the downloaded required repo is a release, run:<br/>
- <code> $ ./flashScript.sh <version tag> </code><br/>
+ <code> $ ./flashScript.sh \<version tag> </code><br/>
    For example, for version tag = v1.2.231:<br/> 
  <code> $ ./flashScript.sh v1.2.231 </code><br/>
 4. In case everything was O.K, a blue screen will pop within short time.<br/>
