@@ -21,8 +21,8 @@
    For example, for version tag = v1.2.231:<br/> 
  <code> $ /flashScript.sh v1.2.231</code><br/>
 4. In case everything was O.K, a blue screen will pop within short time.<br/>
-5. Navigate with arrow keys to <code> Serial flasher config</code>
-6. Check your ESP32 COM port number from Device Manager.
+5. Navigate with arrow keys to <code> Serial flasher config</code> and press Enter.
+6. Check your ESP32 COM port number from Device Manager (under Ports tab).
 7. Enter it as Default serial port, for example <code> COM13</code>
 8. Use arrow keys to save and then exit.
 9. Now it should build and flash required version.
