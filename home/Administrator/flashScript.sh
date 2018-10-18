@@ -6,15 +6,19 @@ versionPath=101B_Release-
 
 if [ $1 = dev ]
 then
-	echo Succeed1
+#	echo Succeed1
 	versionPath=$versionPath'newICDdev'
 else
-	echo Succeed2
+#	echo Succeed2
 	versionPath=$versionPath$1
 fi
 
+echo 'cd '$versionPath'/Ver1.x.x'
 cd $versionPath/Ver1.x.x
+echo 'config menu is about to pop...'
 make menuconfig
+echo 'build starts within short time...'
 make all
+echo 'flash starts within short time...'
 make flash
 
