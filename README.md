@@ -2,7 +2,7 @@
 
 # Prerequisites instructions
 1. Clone / Download 101B_FlashStation repo.
-2. Replace / Extract ZIP to <code> C:\Users\YOUR_USERNAME\Documents</code> (YOUR_USERNAME = your windows user name).
+2. Replace / Extract ZIP to <code> C:\Users\YOUR_USERNAME\Documents</code> (YOUR_USERNAME = your Windows user name).
 3. Rename folder name to <code> 101B_FlashStation</code>.
 4. Open <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation</code> folder.
 5. Run mingw32.exe after it's up, close it.
