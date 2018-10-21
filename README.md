@@ -9,8 +9,9 @@
 6. Download esp-idf (.zip one).<br/><!--For v3.0: https://github.com/espressif/esp-idf/releases/tag/v3.0 <br/>-->For v3.1: https://github.com/espressif/esp-idf/releases/tag/v3.1
 7. Open <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation</code> folder again.
 8. Extract esp-idf-v3.#.zip to <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation\home\YOUR_USERNAME</code>.
-9. Extract 101B_Release-newICDdev.zip to <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation\home\YOUR_USERNAME</code>.
-10. Connect an ESP32 device. <br/>
+9. Back to <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation</code> folder.
+10. Extract 101B_Release-newICDdev.zip to <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation\home\YOUR_USERNAME</code>.
+11. Connect an ESP32 device. <br/>
 
 # flashScript instructions
 1. Open <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation</code> folder.
