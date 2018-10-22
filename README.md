@@ -5,7 +5,7 @@
 2. Replace / Extract ZIP to <code> C:\Users\YOUR_USERNAME\Documents</code> (YOUR_USERNAME = your Windows user name).
 3. Rename folder name to <code> 101B_FlashStation</code>.
 4. Open <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation</code> folder.
-5. Run mingw32.exe after it's up, close it.
+5. Run as asministrator mingw32.exe after it's up, close it.
 6. Download esp-idf (.zip one).<br/><!--For v3.0: https://github.com/espressif/esp-idf/releases/tag/v3.0 <br/>-->For v3.1: https://github.com/espressif/esp-idf/releases/tag/v3.1
 7. Open <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation</code> folder again.
 8. Extract esp-idf-v3.#.zip to <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation\home\YOUR_USERNAME</code>.
@@ -15,7 +15,7 @@
 
 # flashScript instructions
 1. Open <code> C:\Users\YOUR_USERNAME\Documents\101B_FlashStation</code> folder.
-2. Run mingw32.exe.
+2. Run as asministrator mingw32.exe.
 3. If the downloaded required repo is a dev one, run:<br/>
  <code> $ /flashScript.sh dev</code><br/>
    If the downloaded required repo is a release, run:<br/>
